@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">DogAppOnboarding</string>
+    <string name="health_title">Keep track of your dog\'s health</string>
+    <string name="health_text">Check your pet\'s health and needs at any moment. You get alerts when your dgo isn\'t feeling his best.</string>
+    <string name="view_skip">Skip</string>
+    <string name="view_next">Next</string>
+    <string name="walking_title">Lock your leash or just locate where you left it</string>
+    <string name="walking_text">Advanced controls that make going out to a park or an a walk with your dog easy on both of you</string>
+    <string name="nutrition_title">Set reminders to never forget another dog duty</string>
+    <string name="nutrition_text">Manage yout dog responsibilities easily and share them with your family or flatmates</string>
+    <string name="get_started">Get Started</string>
+    <string name="app_title_name">doggo</string>
+</resources>
